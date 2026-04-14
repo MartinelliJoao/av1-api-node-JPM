@@ -7,6 +7,10 @@
     "start": "node src/server.js"
   },
   "dependencies": {
+    "@prisma/client": "^7.7.0",
     "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "prisma": "^7.7.0"
   }
 }
